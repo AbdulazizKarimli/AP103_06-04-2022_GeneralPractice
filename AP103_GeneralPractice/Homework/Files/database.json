@@ -1,0 +1,11 @@
+{
+  "Id": 1,
+  "Name": "test department",
+  "Employees": [
+    {
+      "Id": 2,
+      "Name": "test2",
+      "Salary": 345.0
+    }
+  ]
+}

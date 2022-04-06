@@ -1,0 +1,16 @@
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\bin\Debug\netcoreapp3.1\Homework.exe
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\bin\Debug\netcoreapp3.1\Homework.deps.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\bin\Debug\netcoreapp3.1\Homework.runtimeconfig.dev.json
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\bin\Debug\netcoreapp3.1\Homework.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\bin\Debug\netcoreapp3.1\Homework.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.AssemblyReference.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfoInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.AssemblyInfo.cs
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CoreCompileInputs.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.pdb
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.genruntimeconfig.cache
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Programming\CodeAcademy\Work\AzTU\AP103\C#\ClassWorks\AP103_06-04-2022_GeneralPractice\AP103_GeneralPractice\Homework\obj\Debug\netcoreapp3.1\Homework.csproj.CopyComplete
